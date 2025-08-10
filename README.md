@@ -15,13 +15,10 @@ Ziel: Konzepte der formalen Semantik besser verstehen und Isabelle/HOL sicher an
 
 ## Lizenz
 
-Das Buch *Concrete Semantics* und die begleitenden Materialien stehen unter der Lizenz  
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+Dieses Repository enthält meine eigenen Notizen, Beweisversuche und Gedanken. Diese Inhalte stelle ich unter der Lizenz  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** zur Verfügung.
 
-Dieses Repository enthält meine eigenen Notizen, Beweisversuche und Gedanken. Diese Inhalte stelle ich ebenfalls unter die Lizenz  
-**CC BY-NC-SA 4.0**.
-
-Originalinhalte aus dem Buch sind Eigentum der Autoren Tobias Nipkow und Gerwin Klein und unterliegen den Bedingungen der genannten Lizenz.
+Die Originalinhalte des Buches *Concrete Semantics with Isabelle/HOL* sind Eigentum der Autoren Tobias Nipkow und Gerwin Klein. Eine offizielle Lizenzangabe für das Buch und die begleitenden Materialien konnte auf der offiziellen Webseite nicht gefunden werden. Für die Nutzung der Originalmaterialien empfehle ich, die Autoren oder Rechteinhaber direkt zu kontaktieren.
 
 ---
 
